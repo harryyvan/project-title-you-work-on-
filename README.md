@@ -2,7 +2,7 @@
 <h1>Active Directory and Access Control Administration Lab</h1>
 
 <h2>Description</h2>
-Designed and administered and Active Directory environment focused on secure user lifecycle management,access control,and documentation.Performed user provisioning and deprovisioning,password resets,account unlocks,group-based access management,and organisational unit (OU) structuring.Troubleshot access-related issues and documented resolution steps following service desk best practices.
+This project demonstrates hands-on experience administering Active Directory with a focus on user lifecycle management, role-based access control (RBAC), and access troubleshooting in a service desk environment.
 
 <h2>Languages and Utilities Used</h2>
 - <b>Active Directory Users and Computers (ADUC), Group Policy Management (GPMC), Windows Server, Windows 10/11</b> 
@@ -10,7 +10,10 @@ Designed and administered and Active Directory environment focused on secure use
 
 <h2>Environments Used </h2>
 
-- <b>Oracle virtual box </b>
+- <b> Windows Server (Domain Controller) </b>
+- <b> Windows 10/11 Client </b>
+- <b> Active Directory Users and Computers (ADUC) </b>
+- <b> Group Policy Management (GPMC) </b>
 
 <h2>Program walk-through:</h2>
 
