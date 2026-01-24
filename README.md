@@ -1,17 +1,16 @@
 
-<h1>Linux system Penetration and security Assessment(Tryhackme)</h1>
+<h1>Active Directory and Access Control Administration Lab</h1>
 
 <h2>Description</h2>
-My project consiste of engaging in a control environmennt using Tryhackme attackbox to understand the process of accessing and securing a Linux system.Gained experience in identifying vulnerability and learned basic linux command while performing a simulated attack and defense scenerio.
+Designed and administered and Active Directory environment focused on secure user lifecycle management,access control,and documentation.Performed user provisioning and deprovisioning,password resets,account unlocks,group-based access management,and organisational unit (OU) structuring.Troubleshot access-related issues and documented resolution steps following service desk best practices.
 
 <h2>Languages and Utilities Used</h2>
-
-- <b>Linux system</b> 
+- <b>Active Directory Users and Computers (ADUC), Group Policy Management (GPMC), Windows Server, Windows 10/11</b> 
   
 
 <h2>Environments Used </h2>
 
-- <b>Attackbox</b>
+- <b>Oracle virtual box </b>
 
 <h2>Program walk-through:</h2>
 
